@@ -1,0 +1,36 @@
+_repo: Islam_70136
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ali, Syed Ameer
+    aliases:
+    - Ali, Ameer
+    - Syed Ameer Ali
+    - Ameer Ali
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '55619'
+    url: http://www.gutenberg.org/2009/agents/55619
+    wikipedia: https://en.wikipedia.org/wiki/Syed_Ameer_Ali
+description: ''
+gutenberg_issued: '2023-02-26'
+identifiers:
+  gutenberg: '70136'
+language: en
+pgterms:marc904: https://archive.org/details/islamali00alisiala/page/n5/mode/2up
+pgterms:marc905: 20210524064255ameerali
+pgterms:marc906: '1909'
+pgterms:marc907: GB
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited Kingdom :$bConstable & Company Ltd, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Islam'
+- !lcc 'BP'
+- GITenberg
+title: Islâm
+url: http://www.gutenberg.org/ebooks/70136
